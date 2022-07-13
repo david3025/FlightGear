@@ -24,3 +24,8 @@ You have a makfile ---> then you just run the ./main file
 
 
 <img src="img/characterization.png" width="1000"># FG
+
+A text file for example:
+
+
+<img src="img/example_textfile.png" width="500">
