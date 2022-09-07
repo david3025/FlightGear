@@ -23,7 +23,7 @@ in addition a text file (according to which the commands will be determined) of 
 You have a makfile ---> then you just run the ./main file
 
 
-<img src="img/characterization.png" width="1000"># FG
+<img src="img/characterization1.png" width="1000"># FG
 
 A text file for example:
 
